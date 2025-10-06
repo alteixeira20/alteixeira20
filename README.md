@@ -27,6 +27,7 @@ Today, I’m further developing my skills at **42 Porto**, where the peer-to-pee
 | <a href="https://github.com/alteixeira20/42_so_long">so_long</a>                         | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_so_long" />         | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/alteixeira20/42_minishell">minishell</a>                     | 3    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_minishell" />       | <img src="https://img.shields.io/badge/101%20%2F%20125%20%E2%98%85-success" /> |
 | <a href="https://github.com/alteixeira20/42_philosophers">philosophers</a>               | 3    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_philosophers" />    | <img src="https://img.shields.io/badge/100%20%2F%20125%20%E2%98%85-success" /> |
+| <a href="https://github.com/alteixeira20/42_cub3d">cub3D</a> | 4 | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_cub3d" /> | <img src="https://img.shields.io/badge/In%20Progress%20%E2%9A%97-orange" /> |
 
 </div>
 
