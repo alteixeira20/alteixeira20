@@ -30,7 +30,7 @@ A raycasting engine written in C that renders textured scenes from declarative m
 ## 42 projects
 
 A complete list of my 42 projects (with short descriptions and links):  
-- **[42-projects.md](./42-projects.md)**
+- **[42_projects.md](./42_projects.md)**
 
 ---
 
