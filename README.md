@@ -8,6 +8,32 @@ I tend to approach problems end-to-end: from design and implementation to testin
 
 ---
 
+## Most Relevant Projects
+
+### [open-resume (fork)](https://github.com/alteixeira20/open-resume)
+Extended an open-source resume builder with ATS-aware tooling, including local PDF parsing, scoring, and format presets.
+
+The project treats resumes as structured data rather than static documents, balancing visual clarity with the constraints of real-world applicant tracking systems.
+
+---
+
+### [minishell](https://github.com/alteixeira20/42_minishell)
+A small Bash replica built around strict parsing, predictable process control, and automated parity checks to keep behaviour aligned with real shells under edge cases.
+
+---
+
+### [cub3D](https://github.com/alteixeira20/42_cub3d)
+A raycasting engine written in C that renders textured scenes from declarative map files, with a strong focus on defensive parsing, predictable control flow, and tooling that makes correctness observable (custom testers, Valgrind-first workflows).
+
+---
+
+## 42 projects
+
+A complete list of my 42 projects (with short descriptions and links):  
+- **[42-projects.md](./42-projects.md)**
+
+---
+
 ## Areas of focus
 
 ### Backend & Systems
@@ -42,32 +68,6 @@ I tend to approach problems end-to-end: from design and implementation to testin
 - MariaDB
 - MySQL
 - SQLite
-  
----
-
-## Most Relevant Projects
-
-### [open-resume (fork)](https://github.com/alteixeira20/open-resume)
-Extended an open-source resume builder with ATS-aware tooling, including local PDF parsing, scoring, and format presets.
-
-The project treats resumes as structured data rather than static documents, balancing visual clarity with the constraints of real-world applicant tracking systems.
-
----
-
-### [minishell](https://github.com/alteixeira20/42_minishell)
-A small Bash replica built around strict parsing, predictable process control, and automated parity checks to keep behaviour aligned with real shells under edge cases.
-
----
-
-### [cub3D](https://github.com/alteixeira20/42_cub3d)
-A raycasting engine written in C that renders textured scenes from declarative map files, with a strong focus on defensive parsing, predictable control flow, and tooling that makes correctness observable (custom testers, Valgrind-first workflows).
-
----
-
-## 42 projects
-
-A complete list of my 42 projects (with short descriptions and links):  
-- **[42-projects.md](./42-projects.md)**
 
 ---
 
