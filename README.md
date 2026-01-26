@@ -29,7 +29,18 @@ A raycasting engine written in C that renders textured scenes from declarative m
 
 ## 42 projects
 
-A complete list of my 42 projects (with short descriptions and links):  
+The 42 Common Core projects form a progressive systems curriculum focused on building reliable software under strict constraints.
+
+They emphasize:
+- low-level programming in C and C++
+- explicit memory management and leak-free execution
+- defensive parsing and error handling
+- process control, concurrency, and IPC
+- reproducible builds and evaluator-facing tooling
+
+Most projects are developed with additional self-written testers and validation tooling beyond the required scope, using Valgrind, GDB, and automated test harnesses to make behavior observable and reproducible.
+
+A complete list of projects, with scores, languages, and links:
 - **[42_projects.md](./42_projects.md)**
 
 ---
