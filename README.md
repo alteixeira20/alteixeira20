@@ -1,81 +1,91 @@
----
+# Alexandre Teixeira
 
-<div align="center">
+Backend-focused software engineer interested in system internals, automation, and improving efficiency through tooling.
 
-## About Me
+I like to understand how systems behave under real constraints and turn that understanding into clean, predictable implementations. My work is shaped by low-level programming, backend development, and automation, with a strong emphasis on correctness, reproducibility, and long-term maintainability.
 
-I’m passionate about **automation and creative problem-solving**. I stepped away from my previous work to focus fully on the tech path and complete the 42 course, and I’m committed to growing as a programmer through disciplined, hands-on practice. I aim to deliver clean, reliable work with consistency and focus.
-
-My interest in technology began early — at **12/13 years old** I was building and maintaining **Counter-Strike 1.6** and **Minecraft** servers, experimenting with custom game modes and mods. These projects nurtured my creativity, persistence, and curiosity for building interactive systems. Later, I started a degree in **Computer Science at ISEC**, which I had to pause for personal and professional reasons.
-
-Today, I’m further developing my skills at **42 Porto**, where the peer-to-peer learning model challenges me to grow in **low-level programming, concurrency, and system design**. Recently, I also took part in a **hackathon in the insurance industry**, where I enhanced a machine learning pipeline template — making it fully autonomous and efficient.
+I tend to approach problems end-to-end: from design and implementation to testing, tooling, and documentation.
 
 ---
 
-## 42 Projects
+## Areas of focus
 
-<div align="center">
+### Backend & Systems
+- C, C++
+- Linux / Unix environments
+- Process control, signals, and sockets
+- Concurrency (threads, mutexes)
+- Memory management and debugging
 
-| Project                                                                                  | Description                                                                                               | Rank | Language                                                                                  | Score                                                                          |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <a href="https://github.com/alteixeira20/42_libft">libft</a>                            | Custom C library of libc + list utilities that becomes the base for later projects.                       | 0    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_libft" />           | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_printf">ft_printf</a>                        | Rebuilds `printf` with full flag parsing and a dedicated regression tester.                               | 1    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_printf" />          | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_get_next_line">get_next_line</a>             | Line-by-line FD reader with static buffering; bonus handles multiple descriptors.                         | 1    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_get_next_line" />   | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| Born2beRoot                                                                              | Linux system administration on a VM: users, services, firewall, and security hardening.                   | 1    |                                                                                           | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_push_swap">push_swap</a>                     | Two-stack sorting with move optimization, chunking, and checker automation.                                | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_push_swap" />       | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_minitalk">minitalk</a>                       | Signal-based IPC client/server with bitwise encoding and acknowledgments.                                 | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_minitalk" />        | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_so_long">so_long</a>                         | MiniLibX 2D game with map validation, sprites, animations, and pathfinding.                               | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_so_long" />         | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_minishell">minishell</a>                     | Bash-like shell with parsing, pipes, redirections, builtins, and test tooling.                            | 3    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_minishell" />       | <img src="https://img.shields.io/badge/101%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_philosophers">philosophers</a>               | Dining philosophers concurrency with threads, mutexes, and a timing monitor.                              | 3    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_philosophers" />    | <img src="https://img.shields.io/badge/100%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_cub3d">cub3D</a>                             | Raycasting 3D engine with textured maps, validation, and responsive controls.                             | 4    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_cub3d" />           | <img src="https://img.shields.io/badge/125%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/alteixeira20/42_cpp">C++ Modules (00–09)</a>                  | C++98 modules covering OOP fundamentals through templates and STL.                                        | 4    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_cpp" />             | <img src="https://img.shields.io/badge/In%20Progress%20%E2%9A%97-orange" /> |
+### Backend (Python)
+- Python for backend services and tooling
+- FastAPI for API design and data ingestion
+- JSON-based data pipelines (IoT-style backends)
+- Environment management with **conda**
+- Code quality enforcement with **ruff** and **black**
 
-</div>
+### Automation, Tooling & DevOps
+- Makefiles and build automation
+- Docker and Docker Compose
+- Reproducible development environments
+- CLI tooling
+- CI-friendly workflows
+- Debugging and profiling (Valgrind, GDB)
 
----
-
-## Technical Stack
-  
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-FF7F50?style=for-the-badge&logo=codeforces&logoColor=white)
-
-### Graphics & Game Development
-![MiniLibX](https://img.shields.io/badge/MiniLibX-FF6B6B?style=for-the-badge&logo=opengl&logoColor=white)
-![3D Raycasting](https://img.shields.io/badge/3D_Raycasting-7C3AED?style=for-the-badge&logo=unity&logoColor=white)
+### Data & Applied ML
+- pandas, scikit-learn
+- Automated experiment pipelines
+- Metrics-driven evaluation
 
 ### Databases
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- PostgreSQL
+- MariaDB
+- MySQL
+- SQLite
+  
+---
 
-### Systems Programming & Concurrency
-![Threading](https://img.shields.io/badge/Threading-4A90E2?style=for-the-badge&logo=c&logoColor=white)
-![Memory Management](https://img.shields.io/badge/Memory_Management-FF6B35?style=for-the-badge&logo=c&logoColor=white)
-![Unix Signals](https://img.shields.io/badge/Unix_Signals-32CD32?style=for-the-badge&logo=linux&logoColor=white)
-![Socket Programming](https://img.shields.io/badge/Socket_Programming-00D9FF?style=for-the-badge&logo=c&logoColor=white)
+## Most Relevant Projects
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### [open-resume (fork)](https://github.com/alteixeira20/open-resume)
+Extended an open-source resume builder with ATS-aware tooling, including local PDF parsing, scoring, and format presets.
 
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-7F8C8D?style=for-the-badge&logo=cmake&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-773344?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-800000?style=for-the-badge&logo=gnu&logoColor=white)
-
-### Machine Learning & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-017F3A?style=for-the-badge&logo=microsoft&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+The project treats resumes as structured data rather than static documents, balancing visual clarity with the constraints of real-world applicant tracking systems.
 
 ---
+
+### [minishell](https://github.com/alteixeira20/42_minishell)
+A small Bash replica built around strict parsing, predictable process control, and automated parity checks to keep behaviour aligned with real shells under edge cases.
+
+---
+
+### [cub3D](https://github.com/alteixeira20/42_cub3d)
+A raycasting engine written in C that renders textured scenes from declarative map files, with a strong focus on defensive parsing, predictable control flow, and tooling that makes correctness observable (custom testers, Valgrind-first workflows).
+
+---
+
+## 42 projects
+
+A complete list of my 42 projects (with short descriptions and links):  
+- **[42-projects.md](./42-projects.md)**
+
+---
+
+## Engineering approach
+
+Across projects, I consistently:
+- write **self-contained test suites** to validate behavior and edge cases
+- document assumptions and limitations explicitly
+- favor readable, maintainable solutions over clever shortcuts
+- treat tooling and testing as part of the implementation, not as an afterthought
+
+---
+
+## Background
+
+I am currently completing the 42 Porto program, where the peer-to-peer learning model emphasizes autonomy, problem solving, and technical rigor, with a strong focus on low-level programming and systems design.
+
+---
+
+## Relevant Links
+- LinkedIn: https://www.linkedin.com/in/alexandreteixeira20/
