@@ -10,7 +10,7 @@ I tend to approach problems end-to-end: from design and implementation to testin
 
 ## Most Relevant Projects
 
-### [open-resume (fork)](https://github.com/alteixeira20/open-resume)
+### [CVForge](https://github.com/alteixeira20/CVForge)
 Extended an open-source resume builder with ATS-aware tooling, including local PDF parsing, scoring, and format presets.
 
 The project treats resumes as structured data rather than static documents, balancing visual clarity with the constraints of real-world applicant tracking systems.
