@@ -96,6 +96,7 @@ Across projects, I consistently:
 
 I am currently completing the 42 Porto program, where the peer-to-peer learning model emphasizes autonomy, problem solving, and technical rigor, with a strong focus on low-level programming and systems design.
 
+[![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alteixeira20&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Relevant Links
