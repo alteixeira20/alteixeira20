@@ -1,102 +1,51 @@
 # Alexandre Teixeira
 
-Backend-focused software engineer interested in system internals, automation, and improving efficiency through tooling.
+> **AI-Augmented Product Engineer**, Core Maintainer @ [Odysseus](https://github.com/odysseus-dev/odysseus), Open Source, Architecture, Test Automation
 
-I like to understand how systems behave under real constraints and turn that understanding into clean, predictable implementations. My work is shaped by low-level programming, backend development, and automation, with a strong emphasis on correctness, reproducibility, and long-term maintainability.
+I build and maintain software end to end, from architecture and implementation to automated validation, security review, deployment, and product delivery.
 
-I tend to approach problems end-to-end: from design and implementation to testing, tooling, and documentation.
+AI is a primary part of my engineering workflow. I use it deliberately for research, implementation, review, testing, and coordination, while keeping context, token efficiency, reproducibility, and independent verification in mind.
+
+> [!IMPORTANT]
+> Testing and automation are among my strongest areas. I like turning complex systems into something observable, repeatable, and predictable, with automated regression coverage, reproducible environments, and validation workflows that make failures easy to detect before they reach production.
+
+`Architect → Build → Test → Audit → Iterate → Ship`
 
 ---
 
-## Most Relevant Projects
+## Current focus
+
+### [Odysseus](https://github.com/odysseus-dev/odysseus)
+Core maintainer of an 87k+ star self-hosted AI workspace. I contribute across architecture, security, model infrastructure, reliability, reviews, testing strategy, and maintainer coordination.
+
+### [RoadForge](https://github.com/alteixeira20/RoadForge)
+Open-source product tooling focused on practical developer workflows.
 
 ### [CVForge](https://github.com/alteixeira20/CVForge)
-Extended an open-source resume builder with ATS-aware tooling, including local PDF parsing, scoring, and format presets.
-
-The project treats resumes as structured data rather than static documents, balancing visual clarity with the constraints of real-world applicant tracking systems.
+Open-source tooling focused on professional workflows and resume-related productivity.
 
 ---
 
-### [minishell](https://github.com/alteixeira20/42_minishell)
-A small Bash replica built around strict parsing, predictable process control, and automated parity checks to keep behaviour aligned with real shells under edge cases.
+## Engineering strengths
+
+`Test Automation` · `Software Architecture` · `Open Source` · `Application Security` · `AI Systems`
+
+**Stack**  
+Python, C/C++, TypeScript, FastAPI, PostgreSQL, Docker, Linux, CI/CD
+
+**What I optimize for**  
+Predictability, validation depth, reproducibility, defensive engineering, and systems that remain understandable after they ship.
 
 ---
 
-### [cub3D](https://github.com/alteixeira20/42_cub3d)
-A raycasting engine written in C that renders textured scenes from declarative map files, with a strong focus on defensive parsing, predictable control flow, and tooling that makes correctness observable (custom testers, Valgrind-first workflows).
+## Systems foundation
+
+Built through the **42 Porto Common Core**, Unix systems, networking, concurrency, IPC, parsers, graphics, algorithms, memory management, and low-level debugging.
+
+→ [42 project archive](./42_projects.md)
 
 ---
 
-## 42 projects
+## Links
 
-The 42 Common Core projects form a progressive systems curriculum focused on building reliable software under strict constraints.
-
-They emphasize:
-- low-level programming in C and C++
-- explicit memory management and leak-free execution
-- defensive parsing and error handling
-- process control, concurrency, and IPC
-- reproducible builds and evaluator-facing tooling
-
-Most projects are developed with additional self-written testers and validation tooling beyond the required scope, using Valgrind, GDB, and automated test harnesses to make behavior observable and reproducible.
-
-A complete list of projects, with scores, languages, and links:
-- **[42_projects.md](./42_projects.md)**
-
----
-
-## Areas of focus
-
-### Backend & Systems
-- C, C++
-- Linux / Unix environments
-- Process control, signals, and sockets
-- Concurrency (threads, mutexes)
-- Memory management and debugging
-
-### Backend (Python)
-- Python for backend services and tooling
-- FastAPI for API design and data ingestion
-- JSON-based data pipelines (IoT-style backends)
-- Environment management with **conda**
-- Code quality enforcement with **ruff** and **black**
-
-### Automation, Tooling & DevOps
-- Makefiles and build automation
-- Docker and Docker Compose
-- Reproducible development environments
-- CLI tooling
-- CI-friendly workflows
-- Debugging and profiling (Valgrind, GDB)
-
-### Data & Applied ML
-- pandas, scikit-learn
-- Automated experiment pipelines
-- Metrics-driven evaluation
-
-### Databases
-- PostgreSQL
-- MariaDB
-- MySQL
-- SQLite
-
----
-
-## Engineering approach
-
-Across projects, I consistently:
-- write **self-contained test suites** to validate behavior and edge cases
-- document assumptions and limitations explicitly
-- favor readable, maintainable solutions over clever shortcuts
-- treat tooling and testing as part of the implementation, not as an afterthought
-
----
-
-## Background
-
-I am currently completing the 42 Porto program, where the peer-to-peer learning model emphasizes autonomy, problem solving, and technical rigor, with a strong focus on low-level programming and systems design.
-
----
-
-## Relevant Links
-- LinkedIn: https://www.linkedin.com/in/alexandreteixeira20/
+[LinkedIn](https://www.linkedin.com/in/alexandreteixeira20/) · [Portfolio](https://alexandreteixeira.dev/)
