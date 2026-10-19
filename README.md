@@ -16,7 +16,7 @@ AI is a primary part of my engineering workflow. I use it deliberately for resea
 ## Current focus
 
 ### [Odysseus](https://github.com/odysseus-dev/odysseus)
-Core maintainer of an 87k+ star self-hosted AI workspace. I contribute across architecture, security, model infrastructure, reliability, reviews, testing strategy, and maintainer coordination.
+Core maintainer of an 93k+ star self-hosted AI workspace. I contribute across architecture, security, model infrastructure, reliability, reviews, testing strategy, and maintainer coordination.
 
 ### [RoadForge](https://github.com/alteixeira20/RoadForge)
 Open-source product tooling focused on practical developer workflows.
