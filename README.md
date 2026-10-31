@@ -40,7 +40,7 @@ Predictability, validation depth, reproducibility, defensive engineering, and sy
 
 ## Systems foundation
 
-Built through the **42 Porto Common Core**, Unix systems, networking, concurrency, IPC, parsers, graphics, algorithms, memory management, and low-level debugging.
+Built through the **42Porto Common Core**, Unix systems, networking, concurrency, IPC, parsers, graphics, algorithms, memory management, and low-level debugging.
 
 → [42 project archive](./42_projects.md)
 
